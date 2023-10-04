@@ -23,6 +23,7 @@ namespace PR1
         public MainWindow()
         {
             InitializeComponent();
+            int a;
         }
     }
 }
